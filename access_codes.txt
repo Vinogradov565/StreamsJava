@@ -1,0 +1,10 @@
+Alice: 962396
+Bob: 602694
+Charlie: 899321
+Dave: 135149
+Eve: 711962
+Frank: 418973
+Grace: 406284
+Heidi: 410013
+Ivan: 948847
+Judy: 126142
